@@ -1,0 +1,1 @@
+FROM arm32v7/node:8.11.1
